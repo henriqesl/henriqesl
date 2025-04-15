@@ -4,9 +4,7 @@
 
 - Técnico em Eletrônica (IFPE) | Graduando em Sistemas de Informação (CIn-UFPE)
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Olá+mundo+🌎;Entusiasta+em+tecnologia;IoT+|+Tecnologia+Assistiva" alt="Títulos animados" />
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Olá+mundo+🌎;Entusiasta+em+tecnologia;IoT+|+Tecnologia+Assistiva.)
 
 ## 📊 Analytics
 
@@ -38,7 +36,6 @@
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
-
 
 ## 🌐 Redes Sociais
 
