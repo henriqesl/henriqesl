@@ -1,12 +1,24 @@
 ## 💻🤖 Henrique Silva de Lima 
 
-#### 👋 Desenvolvedor Iniciante, curioso e dedicado, estou buscando aprender e aprimorar minhas habilidades na área que tanto amo. 
+<strong>👋 Desenvolvedor iniciante, movido pela curiosidade e pela paixão por tecnologia. Estou trilhando meu caminho nesse universo vasto e desafiador do desenvolvimento.</strong>  
+Técnico em Eletrônica (IFPE) | Graduando em Sistemas de Informação (CIn-UFPE)  
 
-- Técnico em Eletrônica (IFPE) | Graduando em Sistemas de Informação (CIn-UFPE)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Olá+mundo+🌎.;Contate-me+📩)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Olá+mundo+🌎;Entusiasta+em+tecnologia;IoT+|+Tecnologia+Assistiva.)
+<br>  
 
-## 📊 Analytics
+<a href="https://instagram.com/henriqesl" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:henriqesl16@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/henrique-silva-b8583932a/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> 
+
+
+## 📊 Stats
 
 <div align="center">
   <a href="https://github.com/henriqesl">
@@ -37,20 +49,8 @@
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
 
-## 🌐 Redes Sociais
-
-<div align="center"> 
-  <a href="https://instagram.com/henriqesl" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:henriqesl16@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/henrique-silva-b8583932a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> 
-</div>
+<br>
 
 <div align="center">
-  <h4>📧 henriqesl16@gmail.com | 📍 Recife - PE | 🚀 Próximo nível: Full-Stack</h4>
+  <strong>📧 henriqesl16@gmail.com | 📍 Recife - PE |</strong>
 </div>
