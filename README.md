@@ -1,11 +1,15 @@
 ## 💻🤖 Henrique Silva de Lima 
 
 <strong>👋 Desenvolvedor iniciante, movido pela curiosidade e pela paixão por tecnologia. Estou trilhando meu caminho nesse universo vasto e desafiador do desenvolvimento.</strong>  
-Técnico em Eletrônica (IFPE) | Graduando em Sistemas de Informação (CIn-UFPE)  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Olá+mundo+🌎.;Contate-me+📩)
+<div align="center">
+  Técnico em Eletrônica (IFPE) | Graduando em Sistemas de Informação (CIn-UFPE) <br>
+  <em>"Da solda ao algoritmo, cada linha escrita é uma nova conexão sendo feita."</em>
+</div>
 
-<br>  
+<br>
+
+<strong> Contato📩</strong>
 
 <a href="https://instagram.com/henriqesl" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
